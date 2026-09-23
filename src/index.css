@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+   font-family: "Roboto Slab", serif;
+}
+
+.footer {
+  margin-top: 50px;
+}
+
+.footer-link {
+  color: #adb5bd;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+}
+
+.footer-section {
+  margin-bottom: 20px;
+}
+
+.footer-bottom {
+  border-top: 1px solid #343a40;
+}
+
