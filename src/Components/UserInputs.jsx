@@ -13,7 +13,7 @@ import { TextField } from '@mui/material';
 import jobRole from '../assets/jobrole.json'
 import jobSkills from '../assets/jobskills.json'
 import summaries from '../assets/summaries.json'
-import { saveResumeAPI } from '../services/allAPI.JS';
+import { saveResumeAPI } from '../services/allAPI.js';
 import { useNavigate } from "react-router-dom";
 
 const steps = ['Basic Information ', 'Contact Details', 'Educational Details', 'Review & Submit'];
